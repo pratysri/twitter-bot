@@ -2,6 +2,50 @@
 
 An intelligent Twitter bot that posts on your behalf using OpenAI's GPT models. The bot learns from your context and generates authentic tweets that match your style and interests.
 
+## 🐦 AI-Powered Twitter Bot — How It Works
+
+This project is a fully automated, context-aware Twitter bot designed for authentic, engaging posting—powered by OpenAI's latest GPT-4.1 Mini model and the Twitter API.
+
+### ✨ What It Does
+
+- **Personalized Content Generation:**  
+  Leverages your custom profile (student, SF startup scene, interests, writing style) to generate tweets that sound like you.
+- **Contextual Awareness:**  
+  Pulls from your current projects, recent thoughts, and unique perspectives to create relevant, timely posts.
+- **Varied Content Types:**  
+  Supports multiple tweet styles:  
+  - Project/building-in-public updates  
+  - Observations from the SF tech scene  
+  - Student/founder insights  
+  - Tips, questions, and more
+- **Smart Prompting:**  
+  Uses a weighted system to favor authentic, thoughtful, and "building in public" content.
+- **OpenAI Integration:**  
+  Utilizes GPT-4.1 Mini for fast, high-quality, and cost-effective tweet generation.
+- **Automated Posting:**  
+  Posts directly to Twitter using the v2 API, with support for scheduled/recurring tweets.
+- **Dry-Run Mode:**  
+  Can generate and preview tweets without posting (useful for testing or API limitations).
+- **History & CLI:**  
+  Command-line interface for posting, scheduling, and viewing tweet history.
+
+### 🧠 How It Works
+
+1. **User Context:**  
+   Loads your profile, interests, and recent thoughts from a JSON file for deep personalization.
+2. **Prompt Engineering:**  
+   Dynamically builds system and user prompts tailored to your context and the selected content type.
+3. **Content Generation:**  
+   Calls OpenAI's GPT-4.1 Mini to generate tweet text, ensuring it fits your style and Twitter's character limit.
+4. **Posting:**  
+   Authenticates with Twitter using OAuth, then posts the generated tweet via the API.
+5. **Scheduling (Optional):**  
+   Can run on a schedule to post at regular intervals, keeping your feed active and relevant.
+
+---
+
+**Built for students, builders, and anyone who wants to share their journey authentically on Twitter, with zero manual effort.**
+
 ## Features
 
 - 🤖 **AI-Powered Content**: Uses OpenAI GPT-4 to generate tweets
