@@ -1,0 +1,34 @@
+2025-06-25 01:33:22,441 - bot - INFO - Generating student_perspective content...
+2025-06-25 01:33:25,365 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 01:33:25,377 - bot - INFO - Generated content: "Spent my day toggling between writing complex algorithms and fine-tuning a startup pitch. The overlap? Both require deep problem-solving and a relentless quest for optimization. Who said #CS and #startups were worlds apart? 💻🚀 #buildinpublic"
+2025-06-25 01:33:25,378 - bot - INFO - Dry run mode - not posting to Twitter
+2025-06-25 01:33:37,914 - bot - INFO - Generating sf_scene content...
+2025-06-25 01:33:41,323 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 01:33:41,336 - bot - INFO - Generated content: One thing that stands out in the #SF startup scene: Teams are quick to pivot. Met a founder yesterday who's already on Plan C. It's not about stubbornness, it's about the resilience to quickly adjust your sails. #startups #founders 
+
+What's your Plan B (or C)? 😄
+2025-06-25 01:33:41,336 - bot - INFO - Dry run mode - not posting to Twitter
+2025-06-25 01:33:50,505 - bot - INFO - Generating building_moment content...
+2025-06-25 01:33:54,443 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 01:33:54,455 - bot - INFO - Generated content: "Debugging code late into the night🌚. Found the bug disguised as a comma floating in the wrong place. Why can't bugs be unicorns🦄 or something fun? Coding tip: always double-check your syntax!🔍 #coding #buildinpublic #CS"
+2025-06-25 01:33:54,455 - bot - INFO - Dry run mode - not posting to Twitter
+2025-06-25 01:35:04,560 - bot - INFO - Generating student_perspective content...
+2025-06-25 01:35:08,100 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 01:35:08,113 - bot - INFO - Generated content: "Being a CS student & startup explorer, I've learned that coding isn't just about algorithms or data structures. It's about solving real-world problems & building things that matter. Remember, your GitHub is your portfolio. Code for humans, not just machines. #coding #startups"
+2025-06-25 01:36:30,293 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 01:36:30,482 - bot - INFO - All connections successful!
+2025-06-25 01:36:48,319 - bot - INFO - Generating thought content...
+2025-06-25 01:36:59,786 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 01:36:59,799 - bot - INFO - Generated content: 1/ Diving into the world of #AI and it's moving from labs to real-world applications at warp speed. What's the coolest AI-based tool you've come across recently? #innovation #buildinpublic
+
+2/ The #startup scene in SF is electrifying! So many builders, thinkers, and doers pack...
+2025-06-25 01:36:59,799 - bot - INFO - Dry run mode - not posting to Twitter
+2025-06-25 01:37:08,496 - bot - INFO - Generating project content...
+2025-06-25 01:37:11,955 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 01:37:11,967 - bot - INFO - Generated content: "Currently fine-tuning my AI Twitter bot 🤖 Using @OpenAI for generating content that's not just smart but also 'authentically human'. Any tips to make it more conversational? Let me know! It's all about #buildinpublic and learning together! #AI #coding"
+2025-06-25 02:22:28,728 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 02:22:28,975 - bot - INFO - All connections successful!
+2025-06-25 02:22:44,946 - bot - INFO - Generating question content...
+2025-06-25 02:22:46,448 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-25 02:22:46,462 - bot - INFO - Generated content: What’s been the toughest unexpected challenge you’ve faced while scaling a startup or building an AI product? How did you pivot or adapt? Always curious about real-world founder stories! #startups #AI #founders
+2025-06-25 02:22:46,668 - bot - INFO - Successfully posted tweet: https://twitter.com/user/status/1937758347974807635
